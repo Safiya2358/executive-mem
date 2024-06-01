@@ -28,7 +28,7 @@ const executiveMembers = [
         firstname: "R S B Bikarna ",
         lastname: "Baidya",
         role: "SAIC Executive Member",
-        imageUrl: "/teams/present/R S B Bikarna_Baidya.jpg",
+        imageUrl: "/teams/present/Bikarna_Baidya.jpg",
         details: "3rd year, CE",
       },
       
@@ -60,7 +60,7 @@ const executiveMembers = [
        firstname: "Swarnim ",
        lastname: "Suryansh",
        role: "SAIC Executive Member",
-       imageUrl: "/teams/present/Swarnim_Suryansh.jpg",
+       imageUrl: "/teams/present/Swarnim_Suryansh.jpeg",
        details: "3rd year, MME",
       },
      {
